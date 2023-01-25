@@ -1,15 +1,16 @@
 **Privacy Policy**
-**Для обычных людей**
+
+**Для обычных людей:**
  - Приложение не передаёт какие-либо данные автору(пароль, логин, какая-либо информация о вашем аккаунте), кроме того случая, когда вы обращаетесь ко мне через настройки(Передаётся ключ авторизации(для понимания вашей проблемы).
  - Приложение использует рекламный идентификатор для получения статистики об использовании приложения и информацию о критических ошибках.
  - Статистика, которая отправляется мне, является анонимной
  
  Если у вас есть вопросы или предложения, то вы можете написать мне в телеграм - @andrewbpc
- или на почту a.novikov05@yandex.ru
+ или на почту andrewbpc_dnevnik@proton.me
 
 **Для google play:**
 
-Novikov Andrey built the Электронный Дневник Петербург app as a Free app. This SERVICE is provided by Novikov Andrey at no cost and is intended for use as is.
+Novikov Andrey built the Электронный Дневник СПБ app as a Free app. This SERVICE is provided by Novikov Andrey at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -70,6 +71,6 @@ This policy is effective as of 2023-01-01
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at a.novikov0548@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at andrewbpc_dnevnik@proton.me
 
 
